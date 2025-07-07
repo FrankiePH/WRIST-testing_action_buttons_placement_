@@ -7,16 +7,22 @@
     {
       "name": "New Item",
       "mro": "M",
-      "description": "",
+      "description": "<p><br></p>",
       "valueSets": "",
-      "implementationGuidance": "",
+      "implementationGuidance": "<p><br></p>",
       "informationType": "Record",
       "type": "item",
       "minimumMultiplicity": "0",
       "maximumMultiplicity": "1",
       "concept": [],
       "isComponent": false,
-      "relationshipType": "neither"
+      "relationshipType": "neither",
+      "derivedFrom": "",
+      "valueDomain": [
+        {
+          "type": "CD.CNE"
+        }
+      ]
     }
   ]
 }
